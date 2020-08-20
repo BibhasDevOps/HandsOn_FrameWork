@@ -4,6 +4,9 @@
 <test name="SmokeTest">
 <classes>
   <class name="com.nihilent.com.testCases.Verify_Create_Angola_Residential_Cust_TC"/>
+  <class name="com.nihilent.com.testCases.Verify_Create_Specialist_Cust_TC"/>
 </classes>
 </test>
 </suite>
+
+
